@@ -13,8 +13,7 @@ by [LemonMints42BKK][lemonGit]
 - Git Application: Git Kraken, Github Desktop etc.
 - Code Editor: VScode etc.
 - Remote Repository และ Local Repository
-## Host Repository Online
-### ผู้ให้บริการฝากสารบบออนไลน์
+### Host Repository Online: ผู้ให้บริการฝากสารบบออนไลน์
 
 <a href="https://github.com"><img alt="GitHub Logo in Light or Dark." src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50vw" hight="50vh"></a>
  <a href="https://gitlab.com"><img src="https://user-images.githubusercontent.com/40824677/205691219-5698063c-44bf-453a-b4df-365654641979.png"/></a>
@@ -23,8 +22,7 @@ by [LemonMints42BKK][lemonGit]
  
  
 
-## How To Create Beautiful and Useful ReadMe Documents For GitHub
-### ตกแต่งเอกสารประกอบสารบบให้สวยงามและเกิดประโยชน์
+### How To Create Beautiful and Useful ReadMe Documents For GitHub :ตกแต่งเอกสารประกอบสารบบให้สวยงามและเกิดประโยชน์
 README.md นอกจากจะสามารถเขียนเป็นคู่มือการใช้งานโปรแกรม และแหล่งข้อมูลสำคัญแล้ว การออกแบบให้สวยงามยังช่วยสร้างความน่าสนใจให้กับโค้ชของเราด้วย
 YouTube:  <a href="https://www.youtube.com/watch?v=a8CwpGARAsQ">@thegitguild</a>
 

@@ -13,6 +13,7 @@ by [LemonMints42BKK][lemonGit]
 - Git Application: Git Kraken, Github Desktop etc.
 - Code Editor: VScode etc.
 - Remote Repository และ Local Repository
+  
 ### Host Repository Online: ผู้ให้บริการฝากสารบบออนไลน์
 
 <a href="https://github.com"><img alt="GitHub Logo in Light or Dark." src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50vw" hight="50vh"></a>
@@ -58,3 +59,5 @@ Mentioned Projects:
 
 [//]: # (ส่วนการระบุค่าตัวแปร ซึ่งไม่แสดงในเอกสาร)
 [lemonGit]: <https://github.com/LemonMints42BKK>
+[github]: <https://github.com>
+[gitlab]: <https://gitlab.com>
